@@ -1,4 +1,14 @@
-[![wercker status](https://app.wercker.com/status/c357c0c8106efc9df4d3a16cd3e14f66/m "wercker status")](https://app.wercker.com/project/bykey/c357c0c8106efc9df4d3a16cd3e14f66)
+#My thoughts
+Mostly in the form of beautiful LaTeX generated, Heckle compiled PDFs.
 
-I use Hugo to generate my site and Wercker to build and test.
-Domain arvindiyer.xyz registered at Hostinger.  
+#Start your own Heckle blog with this theme
+
+ - Install [Heckle](https://github.com/2016rshah/heckle)
+ - Fork and clone this repo (not the Heckle repo, this one!)
+ - Edit the `index.html.hkl` file with your own info (name, picture, tagline, etc.)
+ - Edit the `template.html.hkl` file with your own info (like above)
+ - Clear the posts directory and write your own posts
+ - `heckle build`
+ - Push to github
+ - ???
+ - Win.

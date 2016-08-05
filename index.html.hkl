@@ -59,9 +59,7 @@
 
     <div class="content container">
       <div class="posts">
-        <ul id="blog-posts">
-</ul>
-
+        <ul id="blog-posts"></ul>
       </div>
       <footer>  
       <hr> 
